@@ -47,9 +47,9 @@ I specialize in **React.js, Next.js, TypeScript**, and more!
 
 ## 📬 **Get in Touch**
 🔗 **LinkedIn:** [linkedin.com/in/ibrahem-elsaid-389ba4291](https://www.linkedin.com/in/ibrahem-elsaid-389ba4291)  
-📧 **Email:** [Your Email]  
+📧 **Email:** [Your Email]  (ibra7em.dev@gmail.com)
 🎥 **TikTok:** [tiktok.com/@ibra7em_els3id](https://www.tiktok.com/@ibra7em_els3id)  
-🚀 **Portfolio:** [Your Portfolio Link]  
+🚀 **Portfolio:** [Your Portfolio ](https://ibra7em.netlify.app)  
 
 💡 **My Goal:** To turn ideas into high-quality, interactive web experiences! 🚀  
 
